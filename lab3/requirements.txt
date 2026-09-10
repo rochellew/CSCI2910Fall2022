@@ -1,0 +1,6 @@
+greenlet==3.5.5
+prettytable==3.18.0
+readchar==4.2.2
+sqlalchemy==2.0.52
+typing-extensions==4.16.0
+wcwidth==0.8.3
